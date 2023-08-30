@@ -9,4 +9,3 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: echo "CI FTW!"
-      - run: ./main.py
